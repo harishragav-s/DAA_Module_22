@@ -22,8 +22,8 @@ To create a Naive recursive python program to find the minimum number of operati
 
 ## Program :
 
-### Developed by: PRAVEEN S
-### Register Number:  212222240078
+### Developed by: HARISH RAGAV S
+### Register Number:  212222110013
 
 ```
 def ed(x,y,m,n):
